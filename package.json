@@ -1,0 +1,14 @@
+{
+  "name": "datesandtimes",
+  "version": "1.0.0",
+  "description": "gets dates and times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mark",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
